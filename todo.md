@@ -1,4 +1,4 @@
-# TODO
+# TODO (voor docenten)
 Hieronder staat de todolijst van deze challenge.
 * Structuur Linux challenge uitwerken in README.md
 * Gebruikersprofielen uitwerken
