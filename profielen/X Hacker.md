@@ -1,5 +1,5 @@
 # X Hacker (security specialist)
-X controleert de veiligheid van de gemaakte software maar hij controleert ook de veiligheid van de onderwijsinstellingen waarmee het bedrijf samenwerkt. Hij gebruikt hiervoor een hele variatie aan (software en hardware) tools.
+X controleert de veiligheid van de gemaakte software. Hij controleert ook de veiligheid van de onderwijsinstellingen waarmee het bedrijf samenwerkt. Hij gebruikt hiervoor een hele variatie aan (software en hardware) tools.
 
 ## Device
 X wil graag op een laptop met een linux besturingssysteem werken dat speciaal gemaakt is voor penetration testing en het controleren van de beveiliging. Zijn voorkeur gaat uit naar het BlackArch besturingssysteem.
@@ -24,5 +24,5 @@ Hij gebruikt een hele variatie aan tools.
 * Emailprogramma voor linux
 
 ## Scripting
-Voor X is een todolist heel belangrijk. Hij heeft graag een python script dat hij op de terminal kan gebruiken om zijn todo-list bij de houden. De vraag jij dit script kunt maken.
+Voor X is een todo-list heel belangrijk. Hij wil graag een python script dat hij op de terminal kan gebruiken om zijn todo-list bij de houden. De vraag of jij dit script kunt maken.
 
