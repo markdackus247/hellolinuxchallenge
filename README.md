@@ -4,6 +4,14 @@ In deze Challenge ga je als student kennismaken met het besturingssysteem Linux.
 ## Challengeomschrijving
 **Ik kan voor (alle) gebruikers een Linux besturingssysteem gebruikersklaar maken en zo aan alle wensen en eisen van deze gebruiker voldoen.**
 
+## Voorbereidende activiteiten
+Voordat je met de challenge begint ga je eerst enkele activiteiten doen zodat je genoeg kennis hebt om de challenge ook te behalen.
+1. [Hello Distro](activiteiten/1.%20Hello%20Distro.md)
+2. [Hello Terminal](activiteiten/2.%20Hello%20Terminal.md)
+3. [Hello John Doe](activiteiten/3.%20Hello%20John%20Doe.md)
+4. [Hello Python](activiteiten/4.%20Hello%20Python.md)
+5. [Hello Social Engineering](activiteiten/5.%20Hello%20Social%20Engineering.md)
+
 ## De gebruikersprofielen
 Het bedrijf EduGaming is een startup bedrijf in Maastricht-Aachen Airport. Het bedrijf bestaat uit een achttal werknemers met verschillende wensen en eisen. Voor iedere werknemer ga je een Linux-systeem gebruikersklaar maken. Je probeert aan alle vereisten en wensen van deze gebruikers te voldoen.
 1. [Dennis Roemer](profielen/Dennis%20Roemer.md), software developer.
