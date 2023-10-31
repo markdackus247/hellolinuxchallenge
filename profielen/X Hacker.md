@@ -1,4 +1,4 @@
-# X Hacker (security specialist)
+# X Hacker (security specialist) - 4 Sterren
 X controleert de veiligheid van de gemaakte software. Hij controleert ook de veiligheid van de onderwijsinstellingen waarmee het bedrijf samenwerkt. Hij gebruikt hiervoor een hele variatie aan (software en hardware) tools.
 
 ## Device
