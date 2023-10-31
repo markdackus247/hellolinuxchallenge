@@ -1,4 +1,4 @@
-# Hans Huiveniers
+# John Doe (The average guy)
 ...
 
 ## Device
