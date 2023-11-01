@@ -14,3 +14,4 @@ Hieronder staat de todolijst van deze challenge.
 * Systeemdocumentatie sjabloon maken.
 * Levelsysteem voor systeemdocumentatie maken.
 * Schema maken voor acceptatietesten en assessments.
+* Samenwerken in een repository.
