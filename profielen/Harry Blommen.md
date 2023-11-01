@@ -1,5 +1,5 @@
 # Harry Blommen
-...
+Ik ben Harry Blommen 
 
 ## Device
 ...
