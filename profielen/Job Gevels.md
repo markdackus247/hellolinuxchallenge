@@ -2,7 +2,7 @@
 Dean de broodjesman. aaa
 
 ## Device
-...
+*Linux ubuntu.
 
 _2 Blocks_
 
