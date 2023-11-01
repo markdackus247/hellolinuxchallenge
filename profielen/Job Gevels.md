@@ -1,5 +1,5 @@
 # Job Gevels
-Dean de broodjesman. aaa
+Game developer
 
 ## Device
 * Linux ubuntu.
@@ -7,7 +7,22 @@ Dean de broodjesman. aaa
 _2 Blocks_
 
 ## Software
-...
+* Visual studio code
+* Unity
+* Blender
+* Aseprite
+* Chrome
+* Microsoft edge
+* WinVICE Commodore 64 emulator
+* WinVICE Commodore 128 emulator
+* Discord
+* Opera Browser
+* Postman
+* android emulator 
+* python 
+* Spotify 
+* Pycharm
+* 
 
 _5 Blocks_
 
