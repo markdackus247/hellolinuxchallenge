@@ -22,7 +22,6 @@ _2 Blocks_
 * python 
 * Spotify 
 * Pycharm
-* 
 
 _5 Blocks_
 
