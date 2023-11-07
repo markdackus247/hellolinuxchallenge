@@ -7,6 +7,9 @@ Hieronder staat de todolijst van deze challenge.
 * Next-next-next maken voor werken met Command Guide.
 * Profiel John Doe maken met bijbehorden de puzzel.
 * Python video-course maken. Op weg naar eerste video-game.
+* Python game: Guess the number (Normal N2)
+* Python game: Rock, paper, scissors (Hard N34)
+* Python game: Tetris (Advance N4)
 * Youtube-video's met social engineering voorbeelden zoeken.
 * Hoe schrijf ik een goede email lesmateriaal maken.
 * Beoordelingsformulieren klaarzetten voor "device gebruikersklaar maken B1-K1-W3".
