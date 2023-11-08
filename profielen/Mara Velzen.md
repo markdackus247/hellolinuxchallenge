@@ -7,7 +7,16 @@
 _2 Blocks_
 
 ## Software
-...
+- GIMP
+- Libre Office
+- VLC Media Player
+- Greenshot
+- Edge Browser
+- Opera Browser
+- Chrome Browser
+- Postman
+- Spelletjes?
+
 
 _5 Blocks_
 
