@@ -2,7 +2,7 @@
 Ik ben Harry Blommen 
 
 ## Device
-...
+*Kubuntu
 
 _2 Blocks_
 
