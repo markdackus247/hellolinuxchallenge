@@ -16,7 +16,7 @@ Voordat je met de challenge begint ga je eerst enkele activiteiten doen zodat je
 Het bedrijf EduGaming is een startup bedrijf in Maastricht-Aachen Airport. Het bedrijf bestaat uit een achttal werknemers met verschillende wensen en eisen. Voor iedere werknemer ga je een Linux-systeem gebruikersklaar maken. Je probeert aan alle vereisten en wensen van deze gebruikers te voldoen.
 1. [Dennis Roemer](profielen/Dennis%20Roemer.md), software developer. (Ian)
 2. [Mara Velzen](profielen/Mara%20Velzen.md), administratief medewerker. (Mark)
-3. [Hans Huiveniers](profielen/Hans%20Huiveniers.md), account manager. (Mark)
+3. [Hans Huiveniers](profielen/Hans%20Huiveniers.md), accountmanager. (Mark)
 4. [Edgar Klompenaars](profielen/Edgar%20Klompenaars.md), student en tester. (Laszlo)
 5. [Nina Groeven](profielen/Nina%20Groenen.md), huisvrouw en tester. (Dean)
 6. [X Hacker](profielen/X%20Hacker.md), security specialist. (Laszlo)
