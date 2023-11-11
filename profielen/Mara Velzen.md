@@ -1,4 +1,5 @@
 # Mara Velzen
+![Mara Velzen](./Afbeeldingen/Mara%20Velzen.jpeg)
 Mara Velzen is administratief medewerker van het bedrijf EduGaming. Zij beheert de gezamelijke agenda's van de alle medewerkers. Daarnaast werkt ze veel met office applicaties om contracten, folders, memo's of andere documenten.
 
 ## Device
