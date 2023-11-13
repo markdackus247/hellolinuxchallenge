@@ -4,12 +4,20 @@ Ik ben Harry Blommen, de grafisch designer van het bedrijf. ik doe onder andere 
 
 ## Device
 Harry wilt met een laptop werken dat met een linux systeem voozien is.
-Hij gebruikt hierbij het systeem Kubuntu. 
+Hierbij gebruikt hij het systeem Kubuntu. 
 
 _2 Blocks_
 
 ## Software
-...
+*Google 
+*Inkscape 
+*GNU Image manipulation Program
+*
+*
+*
+
+
+
 
 _5 Blocks_
 
