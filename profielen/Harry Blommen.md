@@ -9,11 +9,10 @@ Hierbij gebruikt hij het systeem Kubuntu.
 _2 Blocks_
 
 ## Software
-*Google 
-
-*InkScape
-
-*GNU Image manipulation Program
+* Google 
+* InkScape
+* GNU Image manipulation Program
+* 
 
 
 
