@@ -12,8 +12,10 @@ _2 Blocks_
 * Google 
 * InkScape
 * GNU Image manipulation Program
-* 
-
+* Krita 
+*  
+*  
+ 
 
 
 
@@ -24,7 +26,38 @@ _2 Blocks_
 _5 Blocks_
 
 ## File management 
-...
+* Projecten
+  * Projectnaam 1
+    * Bronbestanden
+    * Afbeeldingen
+    * Voorbeelden
+    * Documentatie
+
+  * Projectnaam 2
+    * Bronbestanden
+    * Afbeeldingen
+    * Voorbeelden
+    * Documentatie
+
+* Cliënten
+   * Cliëntnaam 1
+   *  Projecten
+    * Projectnaam 1
+    * Projectnaam 2
+
+    * Correspondentie
+    * Facturen
+
+  * Cliëntnaam 2
+  *  Projecten
+    * Projectnaam 1
+    * Projectnaam 2
+
+    * Correspondentie
+    * Facturen
+
+
+
 
 _5 Blocks_
 
