@@ -5,7 +5,7 @@ Hans is de accountmanager van het bedrijf en is vaak buiten het kantoorgebouw om
 ## Device
 Hans werkt graag op een Linux Distributie die lijkt op macOS. Hij geeft veel presentaties en maakt veel offertes.
 
-_2 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _2 Blocks_
 
 ## Software
 Hij maakt gebruik van de onderstaande softwarepakketten.
@@ -26,7 +26,7 @@ Hij maakt gebruik van de onderstaande softwarepakketten.
 - Sega Flicky
 - Notepad++
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## File management
 Hans Huiveniers heeft een vaste mappenstructuur voor het orderenen van haar bestanden.
@@ -48,14 +48,14 @@ Hans Huiveniers heeft een vaste mappenstructuur voor het orderenen van haar best
     * Productkennis
     * Kantenservice
 
-_2 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _2 Blocks_
 
 ## Scripting
 ...
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## PowerShell
 ...
 
-_7 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _7 Blocks_
