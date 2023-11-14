@@ -1,5 +1,5 @@
 # Hans Huiveniers (Accountmanager)
-![Mara Velzen](./Afbeeldingen/Hans%20Huiveniers.jpeg)
+![Hans Huiveniers](./Afbeeldingen/Hans%20Huiveniers.jpeg)
 Hans is de accountmanager van het bedrijf en is vaak buiten het kantoorgebouw om de gemaakte producten te verkopen. 
 
 ## Device
