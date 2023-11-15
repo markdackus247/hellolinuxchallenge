@@ -16,7 +16,7 @@ _2 Blocks_
 * WinVICE Commodore 64 emulator
 * WinVICE Commodore 128 emulator
 * Discord
-* Opera Browser
+* Opera Browser(niet GX)
 * Postman
 * android emulator 
 * python 
@@ -26,8 +26,9 @@ _2 Blocks_
 _5 Blocks_
 
 ## File management
-...
-
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
 _5 Blocks_
 
 ## Scripting
