@@ -1,5 +1,6 @@
 # Job Gevels
-Job Gevels is een Game developer
+Job Gevels is een Game developer,
+
 Maak een linux systeem gereed voor hem.
 Hieronder zie je wat je allemaal voor Job Gevels moet doen.
 
@@ -31,6 +32,7 @@ _5 Blocks_
 
 ## File management
 Files sorteren
+
 voorbeelden :
 ![Alt text](image.png)
 ![Alt text](image-1.png)
