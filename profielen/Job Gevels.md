@@ -5,7 +5,7 @@ Maak een linux systeem gereed voor hem.
 Hieronder zie je wat je allemaal voor Job Gevels moet doen.
 
 ## Device
-* Voor dit profiel installeren en gebruiken we Linux ubuntu.
+* Voor dit profiel installeren en gebruiken we Linux ubuntu(versie Ubuntu 22.04.3 LTS).
 
 _2 Blocks_
 
