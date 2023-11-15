@@ -32,11 +32,15 @@ _5 Blocks_
 _5 Blocks_
 
 ## Scripting
-...
+Opdracht: Game script
+
+Maak een simpele game met het gebruik van visual studio of pycharm.
 
 _5 Blocks_
 
 ## PowerShell
-...
+Opdracht: Steam Game Link Generator
+
+Doel: Ontwikkel een PowerShell-script dat de gebruiker vraagt om de naam van een game in te voeren, waarna het script automatisch een link genereert naar de Steam-pagina van de opgegeven game en deze opent in de standaardwebbrowser.
 
 _7 Blocks_
