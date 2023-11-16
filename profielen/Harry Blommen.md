@@ -1,5 +1,5 @@
 # Harry Blommen (Grafisch Designer)
-Ik ben Harry Blommen, de grafisch designer van het bedrijf. ik doe onder andere software installeren, file management, scripting en een stukje PowerShell.
+Harry Blommen is een gepassioneerde grafisch ontwerper met een scherp oog voor esthetiek en creativiteit. Met een achtergrond in grafisch ontwerp en een liefde voor visuele communicatie, heeft Harry een uniek vermogen ontwikkeld om complexe ideeën om te zetten in visueel aantrekkelijke ontwerpen.
 
 
 ## Device
