@@ -13,8 +13,16 @@ _2 Blocks_
 * InkScape
 * GNU Image manipulation Program
 * Krita 
-*  
-*  
+* Spotify
+* Discord 
+* Visual Studio Code
+* Simplescreenrecorder
+* Mypaint 
+* Shotwell
+* Rawtherape
+* Fontforge 
+* Pinta 
+* Gpick
  
 
 
