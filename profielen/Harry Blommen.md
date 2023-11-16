@@ -26,6 +26,9 @@ _2 Blocks_
 _5 Blocks_
 
 ## File management 
+Voor File management maak je deze mappenstructuur na:
+
+
 * Projecten
   * Projectnaam 1
     * Bronbestanden
@@ -33,7 +36,7 @@ _5 Blocks_
     * Voorbeelden
     * Documentatie
 
-  * Projectnaam 2
+ * Projectnaam 2
     * Bronbestanden
     * Afbeeldingen
     * Voorbeelden
@@ -41,20 +44,20 @@ _5 Blocks_
 
 * Cliënten
    * Cliëntnaam 1
-   *  Projecten
-    * Projectnaam 1
-    * Projectnaam 2
-
-    * Correspondentie
-    * Facturen
+     * Projecten
+     * Projectnaam 1
+     * Projectnaam 2
+ 
+     * Correspondentie
+     * Facturen
 
   * Cliëntnaam 2
-  *  Projecten
-    * Projectnaam 1
-    * Projectnaam 2
+    *  Projecten
+     * Projectnaam 1
+     * Projectnaam 2
 
-    * Correspondentie
-    * Facturen
+     * Correspondentie
+     * Facturen
 
 
 
