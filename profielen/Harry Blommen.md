@@ -1,5 +1,5 @@
 # Harry Blommen (Grafisch Designer)
-Ik ben Harry Blommen, de grafisch designer van het bedrijf. ik doe onder andere software installeren, file management, scripting en een stukje PowerShell.
+Harry Blommen is een gepassioneerde grafisch ontwerper met een scherp oog voor esthetiek en creativiteit. Met een achtergrond in grafisch ontwerp en een liefde voor visuele communicatie, heeft Harry een uniek vermogen ontwikkeld om complexe ideeën om te zetten in visueel aantrekkelijke ontwerpen.
 
 
 ## Device
@@ -13,8 +13,16 @@ _2 Blocks_
 * InkScape
 * GNU Image manipulation Program
 * Krita 
-*  
-*  
+* Spotify
+* Discord 
+* Visual Studio Code
+* Simplescreenrecorder
+* Mypaint 
+* Shotwell
+* Rawtherape
+* Fontforge 
+* Pinta 
+* Gpick
  
 
 
@@ -26,6 +34,9 @@ _2 Blocks_
 _5 Blocks_
 
 ## File management 
+Voor File management maak je deze mappenstructuur na:
+
+
 * Projecten
   * Projectnaam 1
     * Bronbestanden
@@ -33,7 +44,7 @@ _5 Blocks_
     * Voorbeelden
     * Documentatie
 
-  * Projectnaam 2
+ * Projectnaam 2
     * Bronbestanden
     * Afbeeldingen
     * Voorbeelden
@@ -41,20 +52,20 @@ _5 Blocks_
 
 * Cliënten
    * Cliëntnaam 1
-   *  Projecten
-    * Projectnaam 1
-    * Projectnaam 2
-
-    * Correspondentie
-    * Facturen
+     * Projecten
+     * Projectnaam 1
+     * Projectnaam 2
+ 
+     * Correspondentie
+     * Facturen
 
   * Cliëntnaam 2
-  *  Projecten
-    * Projectnaam 1
-    * Projectnaam 2
+    *  Projecten
+     * Projectnaam 1
+     * Projectnaam 2
 
-    * Correspondentie
-    * Facturen
+     * Correspondentie
+     * Facturen
 
 
 
