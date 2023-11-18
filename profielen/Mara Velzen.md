@@ -5,7 +5,7 @@ Mara Velzen is administratief medewerker van het bedrijf EduGaming. Zij beheert 
 ## Device
 Zij wil graag gebruikmaken van de gebruikersvriendelijk Linux distributie Ubuntu MATE. 
 
-_2 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _2 Blocks_
 
 ## Software
 - Snapcraft
@@ -22,7 +22,7 @@ _2 Blocks_
 - Gameboy Advance Emulator met The Legend of Zelda the Minish Cap
 - Mario Kart Super Circuit
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## File management
 Mara Velzen heeft een vaste mappenstructuur voor het orderenen van haar bestanden.
@@ -59,14 +59,14 @@ Mara Velzen heeft een vaste mappenstructuur voor het orderenen van haar bestande
     * Rapportage
   * …
 
-_2 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _2 Blocks_
 
 ## Scripting
 Maak een script dat een email stuurt naar een lijst van gebruikers. 
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## PowerShell
 Maak een PowerShell-script om de bovenstaande mappenstructuur te genereren.
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_

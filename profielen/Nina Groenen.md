@@ -3,7 +3,7 @@
 
 ## Device
 
-_2 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _2 Blocks_
 
 ## Software
 * Firefox
@@ -16,18 +16,18 @@ _2 Blocks_
 * Civilization
 * SimCity
 * The Sims
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 
 ## File management
 ...
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## Scripting
 ...
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## PowerShell
 ...
