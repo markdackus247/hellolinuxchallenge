@@ -1,5 +1,5 @@
 # Harry Blommen (Grafisch Designer)
-![Harry Blommen](../images/Harry%20Blommen.jpeg)
+![Harry Blommen](../images/Harry%20Blommen.jpg)
 Harry Blommen is een gepassioneerde grafisch ontwerper met een scherp oog voor esthetiek en creativiteit. Met een achtergrond in grafisch ontwerp en een liefde voor visuele communicatie, heeft Harry een uniek vermogen ontwikkeld om complexe ideeën om te zetten in visueel aantrekkelijke ontwerpen.
 
 
