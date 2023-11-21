@@ -5,24 +5,24 @@ Dennis Roemer is de software developer van het bedrijf. Hij ontwikkeld zijn appl
 ## Device
 ...
 
-_2 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _2 Blocks_
 
 ## Software
 ...
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## File management
 ...
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## Scripting
 ...
 
-_5 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
 ## PowerShell
 ...
 
-_7 Blocks_
+![BLX](../icons/blocks2d_icon_32x32.jpg) _7 Blocks_
