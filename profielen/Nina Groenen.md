@@ -1,5 +1,5 @@
 # Nina Groenen
-![Nina Groenen](../images/Harry%20Blommen.jpeg)
+![Nina Groenen](../images/Nina%20Groenen.png)
 * Nina groenen is een poetsvrouw en een gametester hierbij gebruikt zei de software (Fedora)
 
 ## Device
