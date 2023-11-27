@@ -16,6 +16,7 @@ Edgar wil van de volgende applicaties gebruik maken:
 - Notepad++
 - Visual Studio Code
 - Python
+- Libre Office
 
 ![BLX](../icons/blocks2d_icon_32x32.jpg) _5 Blocks_
 
